@@ -1,0 +1,18 @@
+algoritmo "TesteConhecendo"
+var
+   Nome: caractere
+   N1: Inteiro
+inicio
+   Escreval ("Boa noite, me chamo Thalys")
+   Escreval ("Vamos nos conhecer?")
+   Escreval ("Como você se chama?")
+   Escreva ("Digite seu nome: ", Nome)
+   Leia (Nome)
+   Escreval ("Prazer em te conhecer, ", Nome)
+   Escreval ("Qual a sua idade?")
+   Escreva ("Digite a sua idade: ")
+   Leia (N1)
+   Escreval ("Que bom, eu tenho 26 anos e completarei 27 este ano")
+   Escreva ("Você completará ", N1 + 1, " anos de idade este ano, correto?")
+   
+fimalgoritmo
